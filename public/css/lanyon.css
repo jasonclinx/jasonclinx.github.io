@@ -603,11 +603,11 @@ a.read-more {
 }
 
 #comment .info {
-  display: none;
+  display: none !important;
 }
 #comment .vcontrol .col.col-60 {
-  display: none;
+  display: none !important;
 }
 #comment button.vsubmit {
-  border-radius: 0.3rem;
+  border-radius: 0.3rem !important;
 }
