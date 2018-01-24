@@ -8,15 +8,15 @@ permalink:           pretty
 title:               CRAFTSMAN
 tagline:             LICHGO
 description:         ''
-url:                 http://192.168.0.103
+url:                 http://jasonclinx.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              jasonclinx
+  url:               https://jasonclinx.github.io
+  email:             
 
 # Custom vars
 version:             1.0.0
