@@ -601,3 +601,13 @@ a.read-more {
 .text-center {
   text-align: center;
 }
+
+#comment .info {
+  display: none;
+}
+#comment .vcontrol .col.col-60 {
+  display: none;
+}
+#comment button.vsubmit {
+  border-radius: 0.3rem;
+}
