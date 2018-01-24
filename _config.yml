@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               CRAFTSMAN
+tagline:             LICHGO
+description:         ''
+url:                 http://192.168.0.103
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
+gems:                [jekyll-paginate]
+paginate_path:       "page:num"
+excerpt_separator:   '<!--more-->'
