@@ -626,10 +626,10 @@ a.read-more {
 #comment .vsys {
   display: none;
 }
-#comment .v .vlist .vcard {
+#comment.v .vlist .vcard {
   padding-top: .5rem;
 }
-#comment .v .vlist .vcard section {
+#comment.v .vlist .vcard section {
   border-bottom: 1px solid #f0f0f0;
   padding-bottom: .5rem;
 }
