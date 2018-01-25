@@ -602,6 +602,12 @@ a.read-more {
   text-align: center;
 }
 
+#comment-headline {
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-bottom: .8rem;
+}
+
 #comment .info {
   display: none !important;
 }
@@ -619,4 +625,11 @@ a.read-more {
 }
 #comment .vsys {
   display: none;
+}
+#comment .v .vlist .vcard {
+  padding-top: .5rem;
+}
+#comment .v .vlist .vcard section {
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: .5rem;
 }
