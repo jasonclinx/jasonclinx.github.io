@@ -2,7 +2,7 @@
 layout: post
 title: 再见，北京
 ---
-![Beijing]({{ site.image_baseurl }}/see-you-beijing.jpg)
+![Beijing]({{ "/public/assets/images//see-you-beijing.jpg" | absolute_url }})
 
 再见，北京。
 
