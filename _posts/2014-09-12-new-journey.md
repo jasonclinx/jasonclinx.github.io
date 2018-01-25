@@ -8,10 +8,10 @@ title: 新旅程
 
 最舍不得的是小伙伴们。一起讨论技术问题，一起熬夜工作到3点，一起踢足球，一起吃东北大板，一起周末学习点外卖。我会无限怀念这段时光。
 
-![MS_MCCO]({{ "/assets/MS1.jpg" | absolute_url }})
+![MS_MCCO]({{ "/assets/images/MS1.jpg" | absolute_url }})
 <!-- more -->
-![MS_MCCO]({{ "/assets/MS2.jpg" | absolute_url }})
-![MS_MCCO]({{ "/assets/MS3.jpg" | absolute_url }})
+![MS_MCCO]({{ "/assets/images/MS2.jpg" | absolute_url }})
+![MS_MCCO]({{ "/assets/images/MS3.jpg" | absolute_url }})
 
 我在实习的最后阶段找工作过程中，面的北京5家公司都顺利地拿到了工程师的offer。这5家公司规模不一，大至巨头阿里，小至刚刚起步的初创公司AVOS Cloud，也有处于高速上升期的成长型公司去哪儿、美团。令我惊赞的是这些公司处事的效率之高，都是尽可能地以最短的时间去了解面试者并给出最后决定。最让我感动和觉得很诚意的是去哪儿，和负责人面聊了1小时就直接给了offer。相比之下，我一直抱怨香港的“慢”，许多公司处于安于现状甚至有点自以为是的状态，不够进取。短短的找工作的经历，让我强烈地感受到北京如火如荼的互联网行业的气氛。北京毋庸置疑是做互联网最好的地方，人才与资本集中，到处都有可能被卷入到科技与创业的浪潮中。最后由于一些原因，没有接受这些公司的offer，也很遗憾地推掉了LinkedIn中国的面试。
 

@@ -626,7 +626,7 @@ a.read-more {
 #comment .vsys {
   display: none;
 }
-#comment .vinfo {
+#comment .vinfo, #comment .vempty {
   display: none !important;
 }
 #comment.v .vlist .vcard {
