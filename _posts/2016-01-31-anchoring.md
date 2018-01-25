@@ -2,8 +2,6 @@
 layout: post
 title: 认知偏差：锚定效应
 ---
-![Museum]({{ "/public/assets/images/HCM_museum.jpg" | absolute_url }})
-
 最近在书上看到人类在做决策判断时常见的一些认知偏差（cognitive bias），比如结果偏好、近期偏好、潮流效应等等。其中有一个被命名为anchoring，中文被译者翻译成“锚定效应”，指的是人类在面对不确定性的情况下所做的决策，会过于依赖比较容易能获得的信息。
 
 尤其在今天，互联网的爆炸式发展降低了信息的获取成本，搜索引擎赋予了每个网民“秒懂”的能力。对于网上随手可得的信息与数据，人们似乎已经习惯了 What you see is what you get，囫囵吞枣，轻易地便把这些信息当成真理。
