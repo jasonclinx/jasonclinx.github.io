@@ -11,12 +11,13 @@ description:         ''
 url:                 http://jasonclinx.github.io
 baseurl:             ''
 paginate:            5
+image_baseurl:       /assets/images
 
 # About/contact
 author:
   name:              jasonclinx
   url:               https://jasonclinx.github.io
-  email:             
+  email:
 
 # Custom vars
 version:             1.0.0
