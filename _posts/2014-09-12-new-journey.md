@@ -9,7 +9,7 @@ title: 新旅程
 最舍不得的是小伙伴们。一起讨论技术问题，一起熬夜工作到3点，一起踢足球，一起吃东北大板，一起周末学习点外卖。我会无限怀念这段时光。
 
 ![MS_MCCO]({{ "/public/assets/images/MS1.jpg" | absolute_url }})
-<!-- more -->
+<!--more-->
 ![MS_MCCO]({{ "/public/assets/images/MS2.jpg" | absolute_url }})
 ![MS_MCCO]({{ "/public/assets/images/MS3.jpg" | absolute_url }})
 
