@@ -627,7 +627,7 @@ a.read-more {
   display: none;
 }
 #comment .vinfo {
-  display: none;
+  display: none !important;
 }
 #comment.v .vlist .vcard {
   padding-top: .5rem;
