@@ -608,6 +608,15 @@ a.read-more {
 #comment .vcontrol .col.col-60 {
   display: none !important;
 }
+#comment .vcontrol .col.col-40 {
+  text-align: left;
+}
 #comment button.vsubmit {
-  border-radius: 0.3rem !important;
+  border-radius: 0.2rem !important;
+}
+#comment .vnick {
+  border-bottom: 1px solid #dedede;
+}
+#comment .vsys {
+  display: none;
 }
